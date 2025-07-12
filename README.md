@@ -74,8 +74,10 @@ This project is part of a guided case study by:
 
 ## 📸 Dashboard Snapshots
 
-> *(You can upload screenshots and link here)*
 
 ```markdown
-![Sales Dashboard](images/sales-dashboard.png)
-![Customer Dashboard](images/customer-dashboard.png)
+### Sales Dashboard
+![Sales Dashboard](https://github.com/PranavKamat/Sales-Dashboard/blob/main/Sales%20Dashboard.jpg?raw=true)
+
+### Customer Dashboard
+![Customer Dashboard](https://github.com/PranavKamat/Sales-Dashboard/blob/main/Customer%20Dashboard.jpg?raw=true)
