@@ -75,7 +75,6 @@ This project is part of a guided case study by:
 ## 📸 Dashboard Snapshots
 
 
-```markdown
 ### Sales Dashboard
 ![Sales Dashboard](https://github.com/PranavKamat/Sales-Dashboard/blob/main/Sales%20Dashboard.jpg?raw=true)
 
